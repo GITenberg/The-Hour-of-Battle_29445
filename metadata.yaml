@@ -1,0 +1,43 @@
+_repo: The-Hour-of-Battle_29445
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Krenkel, Roy G.
+    alias: Krenkel, Roy Gerald
+    birthdate: 1918
+    deathdate: 1983
+    gutenberg_agent_id: '26377'
+    url: http://www.gutenberg.org/2009/agents/26377
+    wikipedia: http://en.wikipedia.org/wiki/Roy_Krenkel
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sheckley, Robert
+    aliases:
+    - Lang, Ned
+    - Barbee, Phillip
+    - Barbee, Phillips
+    - O'Donnevan, Finn
+    birthdate: 1928
+    deathdate: 2005
+    gutenberg_agent_id: '2960'
+    url: http://www.gutenberg.org/2009/agents/2960
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Sheckley
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2009-07-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29445'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+title: The Hour of Battle
+url: http://www.gutenberg.org/ebooks/29445
